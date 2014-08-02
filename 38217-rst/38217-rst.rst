@@ -1,0 +1,3524 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 38217
+   :PG.Title: Don Pietro Caruso
+   :PG.Released: 2011-12-04
+   :PG.Rights: Public Domain
+   :PG.Producer: Carlo Traverso
+   :PG.Producer: Barbara Magni
+   :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+   :PG.Credits: This file was produced from images generously made available by The Internet Archive.
+   :DC.Creator: Roberto Bracco
+   :DC.Title: Don Pietro Caruso
+   :DC.Language: it
+   :DC.Created: 1909
+   :coverpage: images/cover.jpg
+
+.. style:: title
+   :class: center
+
+.. style:: subtitle
+   :class: center
+
+.. role:: small-caps
+   :class: small-caps
+
+.. style:: block_quote
+   :class: small
+
+.. role:: xx-large
+   :class: xx-large
+
+.. role:: x-large
+   :class: x-large
+
+.. role:: large
+   :class: large
+
+.. role:: largeit
+   :class: large italics
+
+.. role:: small
+   :class: small
+
+.. role:: scene
+   :class: italics
+
+=================
+Don Pietro Caruso
+=================
+
+.. _pg-header:
+
+.. container:: pgheader language-en
+
+   .. style:: paragraph
+      :class: noindent
+
+   This eBook is for the use of anyone anywhere at no cost and with
+   almost no restrictions whatsoever. You may copy it, give it away or
+   re-use it under the terms of the `Project Gutenberg License`_
+   included with this eBook or online at
+   http://www.gutenberg.org/license.
+
+   
+
+   |
+
+   .. _pg-machine-header:
+
+   .. container::
+
+      Title: Don Pietro Caruso
+      
+      Author: Roberto Bracco
+      
+      Release Date: December 04, 2011 [EBook #38217]
+      
+      Language: Italian
+      
+      Character set encoding: UTF-8
+
+      |
+
+      .. _pg-start-line:
+
+      \*\*\* START OF THIS PROJECT GUTENBERG EBOOK DON PIETRO CARUSO \*\*\*
+
+   |
+   |
+   |
+   |
+
+   .. _pg-produced-by:
+
+   .. container::
+
+      Produced by Carlo Traverso, Barbara Magni, and the Online Distributed Proofreading Team at http://www.pgdp.net.
+
+      |
+
+      This file was produced from images generously made available by The Internet Archive.
+
+
+.. container:: coverpage
+
+   .. image:: images/cover.jpg
+      :align: center
+
+.. container:: titlepage
+
+   .. class:: center
+
+   | :large:`ROBERTO BRACCO`
+   |
+   | :xx-large:`TEATRO`
+   |
+   | :large:`VOLUME TERZO`
+   |
+   | **DON PIETRO CARUSO** — LA FINE DELL'AMORE —
+   | FIORI D'ARANCIO — TRAGEDIE DELL'ANIMA.
+   |
+   | :small:`3ª EDIZIONE.`
+   |
+   |
+   |
+   | REMO SANDRON  —  Editore
+   | :small:`Libraio della Real Casa`
+   | :small:`MILANO-PALERMO-NAPOLI-GENOVA`
+   |
+   | :small:`Copyright by Roberto Bracco and Miss Dircé St. Cyr in the United States of America.`
+
+----
+
+.. container:: verso
+
+   .. class:: center
+
+   PROPRIETÀ LETTERARIA
+
+			*I diritti di riproduzione e di traduzione sono riservati
+			per tutti i paesi, non escluso il Regno di Svezia e quello
+			di Norvegia.*
+
+			È assolutamente proibito di rappresentare queste produzioni
+			senza il consenso scritto dell'Autore *(Art. 14 del Testo Unico
+			17 Settembre 1882)*.
+
+			Copyright by Roberto Bracco and Miss Dircé St. Cyr in the United
+			States of America.
+
+			Off. Tip. Sandron — 148 — I — 290514.
+
+----
+
+.. clearpage::
+
+[pg!5]
+
+.. class:: center
+
+| :x-large:`DON PIETRO CARUSO`
+|
+| :largeit:`Dramma in un atto`
+
+Questo dramma fu rappresentato la prima volta
+al Teatro *Sannazzaro* di Napoli, da :small-caps:`Ermete Novelli`,
+nel *novembre* del 1895.
+
+----
+
+[pg!6]
+
+.. clearpage::
+
+[pg!7]
+
+.. class:: center large
+
+PERSONAGGI:
+
+   .. class:: large
+
+   | :small-caps:`Don Pietro Caruso`
+   | :small-caps:`Margherita`, *sua figlia*
+   | :small-caps:`Il Conte Fabrizio Fabrizi`
+   | Voci interne.
+   |
+   | La scena è a Napoli. — Epoca attuale.
+
+[pg!8]
+
+[pg!9]
+
+ATTO UNICO.
+===========
+
+*Una stanzetta poveramente ammobigliata. In fondo,
+nel centro, una porta grande, e, a qualche distanza,
+una finestra. A destra, una specie di basso
+focolare rusticano con la gran cappa affumicata,
+il quale serve anche da caminetto. A sinistra, una
+porticina. Quasi davanti al focolare, una scrivania
+con su carte in disordine e l'occorrente per scrivere.
+Una credenza, una tavola rotonda, poche seggiole
+sciancate, un bacile sopra un treppiede di
+ferro, una brocca di acqua, un asciugamani. Fra
+la porta d'ingresso e la finestra, un umile lettuccio
+con su un materasso avvoltolato. Sulla credenza,
+la statuina colorata d'un santo con innanzi una
+lampada a olio.*
+
+*(È giorno, ma durante l'azione l'aria andrà lievemente
+oscurandosi.)*
+
+SCENA I.
+--------
+
+MARGHERITA E FABRIZIO.
+``````````````````````
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(è seduto, con le braccia incrociate, con la faccia
+buia.)*
+
+[pg!10]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(è alla finestra, e parla a voce alta con una vicina.)*
+Grazie, signora Punzo! *(Poi, rivolgendosi
+pianissimo a Fabrizio)* Scusa. È la signora Punzo
+qui accanto che mi ha avvertita di tirar su le lenzuola,
+ch'erano a prendere aria. *(Da una funicella
+esteriore, ritira due lenzuola e le piega, seguitando
+a parlare con la vicina.)* Se non mi aveste chiamata
+voi, io non me ne sarei nemmeno accorta
+del cattivo tempo.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+|
+| *(tentenna il capo.)*
+
+*(Lampeggia un poco e si ode qualche tuono.)*
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(alla vicina)* Ci siamo, eh!
+
+.. class:: center
+
+| :scene:`(Pausa.)`
+
+.. class:: center
+
+| :small-caps:`La voce della vicina`
+
+Il babbo è in casa?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Nossignora, sono sola... come sempre.
+
+.. class:: center
+
+| :small-caps:`La voce della vicina`
+
+Stanotte, ho sognato un bue a tre corna e un
+morto con la gobba. Volevo consultare Don Pietro,
+che di queste cose se ne intende.
+
+[pg!11]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Eh! Quando tornerà.... *(Chiudendo la finestra)*
+Permettete. *(A Fabrizio, riponendo le lenzuola piegate
+sul materasso)* Sono per il letto del babbo.
+Mi dispiaceva che si bagnassero. *(Un silenzio. — Ella
+guarda Fabrizio, gli si accosta alle spalle e gli
+circonda il collo con le braccia, baciandogli i capelli.)*
+Dunque, è uno scherzo.... [1]_
+
+.. [1] Nota per gli interpreti: — Fin qui, la scena deve procedere lentamente,
+   con mollezza tutta napoletana.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(liberandosi dalle braccia di lei)* Non è uno scherzo,
+Margherita. Con te, non ho mai scherzato.
+Prima di risolvermi, ho molto riflettuto. Ed ho
+sofferto. Ora, sono irremovibile.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Ma io che male ti ho fatto?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Nessuno.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Ti sono di peso?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+No.
+
+[pg!12]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Ti guasto la vita? Ti distraggo? T'importuno?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+No, no! E questo ti prova appunto che io agisco
+esclusivamente a vantaggio tuo. Continuando, che
+ci rimetterei, io?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Non lo so; ma il certo è che per tenerti legato
+a me, io non avrei dovuto....
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(interrompendola)* T'inganni!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+No, non avrei dovuto fare... quello che ho fatto.
+Credi ch'io sia tanto stupida da non capirlo?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Tu non capisci niente.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Il capriccio t'è passato.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Eccoci al solito *capriccio*!
+
+[pg!13]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Capriccio! Capriccio! Se fosse stato amore....
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Va' là che non s'è ancora saputo se l'amore sia
+un capriccio che dura troppo, o se il capriccio sia
+un amore che dura troppo poco.... Non capisci
+niente, ti dico. Io sento per te, oggi, ciò che sentivo
+un mese fa.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Si vede!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Non si vedrà, pazienza! Ma è così. E perchè
+dovrebb'essere altrimenti? Tu sei diventata anche
+più bellina, più graziosa, più docile. E, anzi, è la
+tua stessa docilità quel che maggiormente mi fa
+paura. Sì, il venire qui, di nascosto, come ho fatto
+finora, a guisa di un mariuolo o di uno sciocco,
+per una persona della mia posizione sociale non è
+bello; e il rischio di trovarmi tra i piedi un uomo
+della risma di tuo padre non è mica divertente:
+ma, via, non di questo mi preoccupo... perchè
+non sono un egoista. Io mi preoccupo di te, Margherita,
+di te. Tu ti sei lasciata andare senza prevedere
+le conseguenze. Cerchiamo di prevederle
+almeno ora. C'è tanti guai da evitare. Evitiamoli.
+Se stringessimo di più i nostri vincoli, non
+ne saresti tu, poverina, l'unica vera vittima? *(Pausa.)*
+Tutto quello che è accaduto tra noi non lo metteremo
+in piazza nè tu nè io. E, facendo il sacrifizio
+[pg!14]
+di separarci — ed è per me un gran sacrifizio, Margherita — ce
+la saremo cavata il meglio possibile.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Si direbbe che non mi conosci, Fabrizio! Tu
+credi, senza dubbio, di parlare con un'altra donna,
+con un'altra Margherita. Dici che io sarei l'unica
+vittima? Ma di chi? Ma di che cosa? Io non sarò
+vittima di nessuno e di nulla se tu non mi abbandoni;
+e una tua parola, una tua parola affettuosa,
+un tuo bacio, una mezz'ora della tua presenza potranno
+farmi sopportare allegramente tutti i guai
+che tu temi, tutte le conseguenze che prevedi.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+È inutile: non mi convinci.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Io ti risparmierò qualunque imbarazzo, qualunque
+noia, qualunque fastidio....
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Ed io invece ho il dovere di risparmiarti la pubblicità
+del fallo... e,... chi sa,... molte sofferenze
+morali... e... materiali... di cui tu non hai neppure
+una vaga idea.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Ma giacchè io sono pronta a tutto, perchè te ne
+preoccupi tu?
+
+[pg!15]
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Perchè non voglio avere altri scrupoli di coscienza!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+E se non vuoi avere altri scrupoli di coscienza,
+non devi lasciarmi morire di crepacuore!
+
+.. class:: center
+
+| :small-caps:`La voce del portinaio`
+
+*(viene di giù, dal cortile, fioca e cadenzatamente
+stentorea)* Signorina Margherita... signorina Margherita!...
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Auff! Che c'è ancora?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+È il portinaio che mi chiama. *(Rassegnata, riapre
+la finestra e si ode il rumore della pioggia.
+Ella si mette un fazzoletto sulla testa e si affaccia.)*
+
+.. class:: center
+
+| :small-caps:`La voce del portinaio`
+
+Il signor Chianese, può salire?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Non lo sapete che sono chiusa in casa?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Bada che mi ha visto entrare.
+
+[pg!16]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(a Fabrizio)* Che novità! Lo so; ma le mance
+perchè le piglia?
+
+.. class:: center
+
+| :small-caps:`La voce del portinaio`
+
+Credevo che Don Pietro fosse rincasato.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+No, non è rincasato.
+
+.. class:: center
+
+| :small-caps:`La voce del portinaio`
+
+Il signor Chianese vuole quella lettera che Don
+Pietro gli aveva promessa. A me non ha dato niente.
+L'avrà dimenticata sulla scrivania.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Vedrò. *(Cerca sulla scrivania inutilmente. Torna
+alla finestra.)* Sulla scrivania non c'è nessuna lettera.
+
+.. class:: center
+
+| :small-caps:`La voce del signor Chianese`
+
+*(un po' balbuziente)* Allora, dite a Don Pietro, da
+parte mia, che è un furfante e un mancatore di
+parola.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Di queste imbasciate non gliene faccio, al babbo.
+*(Chiude in fretta la finestra.)*
+
+.. class:: center
+
+| :scene:`(Un silenzio.)`
+
+[pg!17]
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Io me ne vado, Margherita. Tuo padre poco può
+tardare e una sorpresa proprio all'ultimo sarebbe
+un bel grattacapo per tutti e due. Questa è la chiave
+*(cavando una chiave da una saccoccia e mettendola
+sulla tavola)* che è stata, disgraziatamente, la nostra
+complice; e io te la consegno, vedi, per non
+avere più la tentazione di venire a trovarti in segreto.
+Buttala via, o nascondila. Io ti auguro...
+che nessun altro debba servirsene.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Fabrizio!...
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Eh, mia cara, soltanto chi è bestialmente fatuo
+può credere di essere il solo a meritare una donna!
+*(Pausa.)* Io tornerò più tardi per aggiustare
+certe faccende con Don Pietro. Il suo lavoro elettorale
+mi è stato disastroso, ma io non me ne lamenterò,
+e c'intenderemo egualmente.... *(Indi,
+prendendo il cappello)* Sicchè... addio Margherita....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Fabrizio, riprenditi quella chiave.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Margherita, non tentarmi....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Riprendila... riprendila... Non togliermi ogni speranza.
+
+[pg!18]
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+No... no... Bisogna troncare!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(afferrandogli le braccia e trattenendolo)* Senti,
+Fabrizio..... ti voglio dire un'altra parola... Senti.....
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+È tardi.... Lasciami.... Ne riparleremo....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Ma quando, ma come ne potremo riparlare?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Ne riparleremo... ne riparleremo.... *(Si svincola
+ed esce richiudendo la porta.)*
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(piange silenziosamente. Poi, balbetta singhiozzando*:)
+Sì, sì, «ne riparleremo».... Parole!... Parole!...
+*(Piange ancora, prende la chiave e la intasca.
+Indi, versa dell'acqua nel bacile, si lava gli
+occhi e se li asciuga. Apre la credenza, ne trae
+una tovaglia e dei piatti e comincia ad apparecchiare
+la tavola.)*
+
+[pg!19]
+
+SCENA II.
+---------
+
+MARGHERITA, PIETRO.
+```````````````````
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(è su per le scale, cantando rocamente l'aria del
+«Trovatore» e intercalandovi molte pause:)*
+
+   | Sconto col sangue mio....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(tra sè)* Il babbo....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(la cui voce va avvicinandosi)*
+
+   | L'amor che pósi in te!
+   | Non ti scordar di me!
+   | Non ti scordar di me!
+
+.. class:: center
+
+| :small-caps:`La voce della vicina`
+
+*(chiamando:)* Ohè, Don Pietro! Don Pietro!...
+Siete voi?
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Pare. In che posso servirvi, signora Punzo?
+
+.. class:: center
+
+| :small-caps:`La voce della vicina`
+
+Favorirmi sempre. Volevo pregarvi: stanotte, in
+sogno, un morto con la gobba e un bue a tre corna.
+Che mi dite? Che numeri devo giocare?
+
+[pg!20]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+È chiaro: il morto con la gobba 47 e 57, il bue
+77, e metteteci il 3... per le corna.
+
+.. class:: center
+
+| :small-caps:`La voce della vicina`
+
+Grazie!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Niente, per ora. Ma raccomandatevi ai santi protettori
+del lotto pubblico...: devono essere parecchi:
+e ci rivedremo a vincita fatta! *(Ricomincia a
+cantare, ripigliando il motivo press'a poco dove
+l'ha interrotto*:)
+
+   | Non ti scordar di me!
+   | E.. le.. o.. noo... ra!
+   | E... le... o... nora...
+
+*(Si sente un poco il rumore della chiave nella serratura.
+La porta si apre subito. Egli entra.)*
+
+   | Eleonora, addio!
+
+*(Richiude la porta col lucchetto, e si avanza a
+passi gravi, solennemente comico. Il lungo soprabito
+col frusto bavero alzato e l'unto cappello a tuba
+grondano acqua. Ugualmente inzuppati sono i
+calzoni dagli orli rossi e le scarpe scalcagnate.)*
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+In quale stato!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+In quale stato?
+
+[pg!21]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Sei fradicio, babbo!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Lo credo, io! Non senti che pioggia?!... Brrrr....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+E il tuo ombrello? E il tuo pastrano?
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Prima di tutto, ragioniamo. *(Il verbo «ragionare»
+gli corre spesso alla bocca, pronunziato lievissimamente
+come se gli scivolasse dalle labbra.)* Appena
+ho messo la chiave nel buco della serratura,
+la porta si è aperta. *(Quasi serio, mostrando la
+chiave che ha in mano)* Come va questa faccenda?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(con simulazione)* Come vuoi che vada? Quando
+sei uscito, avrai dimenticato di chiudere bene. Sei
+così distratto!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Anche questo può darsi. Brrr.... L'umido mi penetra
+nelle ossa....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Mio Dio!
+
+[pg!22]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ci hai delle legna per fare un po' di fuoco?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Non so.... *(Esce a sinistra.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(agitando il cappello affinchè l'acqua possa colare — riflette:)*
+Anche questo può darsi. La distrazione è
+il solo connotato che distingua l'uomo dalla bestia!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(di dentro)* Per fortuna, ce n'è delle legna.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(continuando tra sè:)* Difatti, la capra, la volpe,
+il cavallo, l'asino sono mai distratti? Nossignore!
+*(Dopo avere asciugato il cappello con un fazzoletto,
+mette l'uno e l'altro sul cornicione della cappa.)*
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(entra con le legna e si adopera ad accendere il
+fuoco.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(togliendosi il soprabito)* Brava la mia Margherita!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Sono ancora i resti della panchetta fracassata.
+
+[pg!23]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+E allora, siano benedette le spalle sulle quali la
+fracassai! *(Distende il soprabito sulla spalliera
+di una seggiola accanto al fuoco.)*
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(ginocchioni, intenta alla bisogna)* Ma del pastrano
+e dell'ombrello, babbo, che ne hai fatto?
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Sei un gran tipo, tu! Quando sono uscito, pioveva,
+forse? No. E dunque che bisogno ne avevo?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Per altro, hai portato via ombrello e pastrano.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Naturale! *(Prende dall'attaccapanni una lunga
+giacca vecchia, tutta sudiciume e tutta rappezzature.)*
+E li ho utilizzati. *(Infilando la giacca)* Questa
+invece non c'è più da utilizzarla. Se andassi ad
+offrirla al Monte di Pietà mi riderebbero in faccia,
+e ne avrebbero il diritto.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(alzandosi)* Come! Hai pegnorato?...
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(con fierezza)* Ombrello e pastrano. Beninteso!
+O bella! Per chi mi pigli? Pegnoratissimi!... La
+giornata si annunziava così scarsa....
+
+[pg!24]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(mite)* Eppure, avevi promesso di comperare da
+pranzo.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Precisamente perchè io sono un uomo di risorse!
+Che diamine!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(con dolce rimprovero)* Babbo! Babbo! *(Riprende
+ad apparecchiare la tavola.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(cavando dalle saccocce del panciotto una pipa e
+dei mozziconi)* Ma... non ti dar pena, Margherita,
+perchè... grazie a Dio *(tritola i mozziconi)*.... Sì,
+dico, grazie a Dio, il pranzo non c'è. Questo è innegabile!
+Però, qualche volta, il pranzo viene giù
+dal cielo come l'acqua. Non sempre, veh!... Ho
+detto: «qualche volta». Chi sa!... Aspettiamo.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(siede presso la tavola, appoggiandovi un gomito
+e posando sulla mano il capo.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(carica la pipa, l'accende con un piccolo tizzo
+preso dal focolare, e, fumando, siede tra il fuoco
+e la scrivania.)* Oh! Benone! Così. *(Canticchia*:)
+«Sconto col sangue mio.... L'amor che pósi in
+te....» *(Un breve silenzio.)* Riconosco che ho sbagliato....
+Non lo nego.... Ma il mio piano aveva i
+[pg!25]
+suoi pregi. Perchè, vedi, dopo l'operazione bancaria
+del pegnoramento, io ho... ragionato: «piuttosto
+che aspettare l'ora del pranzo con queste poche
+lire in mano, mettiamole a profitto e facciamole
+moltiplicare». Il capitale ozioso, mia cara, è una immoralità.
+Questa è la mia convinzione, e, tanto,
+non la cambio! Senonchè, mi sono ricordato che
+ero in pieno venerdì, e, prima di andare avanti,
+ho voluto prendere le debite precauzioni contro la
+jettatura della mala giornata. Ho stralciato una quota
+esigua dal capitale e mi sono provvisto di... *(mettendo
+fuori un gran cornetto* rosso) non so se mi
+spiego! Corallo vero non è, badiamo, chè, già, la
+qualità poco importa. Un corno deve essere un
+corno! Su questo mondo, la forma è tutto! E con
+l'amico in saccoccia, sono andato a... tu lo capisci,
+eh? Sono andato....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+A giocare, babbo, a giocare....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Giocare! Giocare!... Che significa giocare? Diciamo:
+a negoziare. Orbene, ho negoziato....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+E hai perduto.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ma sai perchè?... Perchè non avevo più quattrini.
+Il corno, poverino, non ce n'ha mica colpa! Niente
+affatto! Se avessi continuato, se avessi potuto continuare,
+perbacco, *(animandosi, si alza)* stai pur
+[pg!26]
+tranquilla, Margherita, che le cose sarebbero andate
+altrimenti! *(Fremendo di voluttà e di rabbia)*
+Oggi mi sentivo la fortuna in pugno; me la sentivo
+qui, qui, *(mostra le mani)* e, credimi, Margherita,
+credimi, avrei avuto il coraggio di arrischiare
+non le vergognose cinque lire, maledetta la miseria!,
+ma migliaia di sterline belle e sonanti, e, come
+della luce del sole, per Satanasso!, sarei stato sicuro
+di saperle centuplicare. *(Pausa.)* Sarà per
+un'altra volta. Per oggi, contentiamoci di riscaldarci.
+Lui *(al soprabito)* ci dà il buon esempio.
+*(Mutandone la posizione sulla seggiola affinchè
+si rasciughi da tutte le parti)* Guarda, Margherita:
+sempre lo stesso, lui, da tanti anni! Perde il pelo,
+questo sì, ma non il vizio, per la semplice ragione
+che lui vizi non ne ha. *(Sospirando, risiede.)* Camperà
+più di me, è vero: ma non lo invidio per questo.
+Margherita, in fondo alla credenza troverai mezza
+bottiglia di Cognac. Abbi pazienza, portamela qui....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(rassegnata, prende nella credenza la bottiglia e
+un bicchierino e glieli pone dinanzi, sulla scrivania.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ne vuoi?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+No, babbo. *(Si allontana.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(riempie il bicchierino, beve di un fiato e tossisce
+strascicatamente come per grattarsi la gola.)* Di': sei
+in collera con papà tuo?
+
+[pg!27]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Mai.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Vieni qua. *(Margherita gli si accosta. — Egli la
+carezza.)* Non credere che io non ci pensi a te.
+Calcolavo sul conte Fabrizi. Mi sono affacchinato
+per lui, in queste elezioni. È restato a terra.... Che
+ci posso fare? Ma il compenso verrà... verrà. È un
+galantuomo il conte, ed è per questo che non voglio
+importunarlo.... Intanto, ci ho in prospettiva
+una buona dozzina di affari coi fiocchi: il tentativo
+con la vedova Verrusio, la vendita Stefanelli — e
+lì c'è da infinocchiare mezzo mondo!; — la causa
+Marotta; — e il signor Francesco Marotta se vuole
+la mia testimonianza sa come deve regolarsi. — Che
+altro? Ah! l'affare Perrotti.... Quello poi è
+sicuro... La copia del suo progetto è nelle mie mani,
+e.... *(Pentendosi di aver detto troppo)* Milioni
+non ne verranno, no; ma, via, certamente, ci sarà,
+per esempio..., ci sarà da comperare *(tirando a sè
+Margherita)* quella magnifica stoffa a strisce... che
+il De Simone spampana nella sua vetrina.... Santi
+numi, che stoffa! Ecco una stoffa che mi piace. E
+non è tutto! Compreremo anche un cappello grande...
+con uno di quei nastri... con una di quelle
+piume... con uno di quei ciuffoni di fiori..., non
+so, ma ha da essere un cappello così straordinario
+da farti sembrare meglio di una principessa.... E
+andremo a spasso, andremo; e la gente, per la
+strada, dovrà guardarci a bocca aperta, e di buona
+o di mala voglia dovrà esclamare: Ohè, com'è elegante
+la figliuola di Don Pietro Caruso! *(Pausa. — Con
+malinconia)* Già, tu non ci vuoi mai venire a
+spasso con me. Si direbbe... che te ne vergogni.
+
+[pg!28]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Che idee!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Sì, sì: te ne vergogni. Io sono uno sciamannato....
+Vesto tanto male! Mi sono sempre vestito male!
+E perciò quand'ero studente e declamavo sui
+marciapiedi, mi chiamavano il *filosofo*. Ora mi
+chiamano il *galoppino*. Le attribuzioni sono diverse,
+ma il vestiario è lo stesso. E poi... e poi... le
+mie conoscenze non ti garbano. Quelli che mi salutano
+per la via non ti vanno a genio. D'altronde,
+se conoscessi delle brave persone, starei fresco.
+Le brave persone sono così inutili! Ma tu non dovresti
+dartene troppo pensiero. Sei una ragazza
+onesta tu? E che te ne importa degli altri? Pensa
+ai casi tuoi. Una ragazza che non va a spasso
+non trova marito.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(lievemente infastidita, gli volge le spalle.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+E tu devi trovarlo! *(Pausa.)* Ah, Margherita! Io
+sono molto logoro, lo vedi, molto logoro! E tu
+avrai bisogno di un compagno, di un sostegno.
+Altrimenti, quando io me ne vado, *(con la mano
+accenna alla morte)* come farai, figlia mia adorata,
+come farai?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(asciugandosi una lacrima)* Finiscila, babbo!
+
+[pg!29]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+È da molto tempo che dovevo ragionare con te
+di queste cose. Come farai?... Tu non puoi lavorare....
+Non sai lavorare....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Imparerò....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(con uno scatto energico)* Io non lo voglio!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Te l'ho chiesto in grazia tante volte.... Permettimi
+di imparare.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(con violenza)* Mai! mai! mai! *(Poi, animandosi
+sempre più)* Imparare! Come si fa ad imparare? Ah,
+lo so! Si sta tutta la giornata fuori della propria
+casa, in un laboratorio qualunque, dove si parla...
+di tutto, dove le ragazze si guastano tra loro, dove
+una sola di esse cattiva o corrotta basta a corrompere
+tutte le altre, e dove l'esempio di quelle che
+fanno il comodo loro e che se la godono è una
+tentazione perenne, a cui non è facile sottrarsi....
+*(Con gli occhi spauriti)* Si esce di lì, stanche, eccitate;
+si trovano sul canto della via i fratelli, gli
+innamorati delle compagne... e tutti i birbanti
+pronti a profittare delle prime irrequietezze d'un
+piccolo essere sensibile ed inesperto.... E la tentazione
+diventa più acuta, più insidiosa, più incalzante,
+più prepotente... ed ecco che da una parte
+[pg!30]
+s'impara a lavorare e dall'altra s'impara a transigere
+e ad avere nuove aspirazioni, a desiderare,
+a fantasticare... a perdersi!... Povere fanciulle!...
+Il cammino libero, quello del lavoro, quello dell'indipendenza,
+non vi sarà consentito, no, finchè
+noi uomini nasceremo con l'istinto d'inoculare nella
+donna tutto il veleno che può renderla più idonea
+al nostro egoismo. Ricòrdatelo, Margherita! Gli
+uomini sono vili, sono vili, sono vili!... Se io ti
+permetto d'andar fuori per provvedere alla tua esistenza,
+essi, che sono lì in agguato, non avranno
+pietà di te... non ne avranno di me. No, Margherita!
+*(Abbracciandola, quasi difendendola cupidamente)*
+No, Margherita mia.... No! No! Papà tuo
+ti vuole come sei.... Il tuo onore, il tuo onore è
+il suo riposo, è la sua luce, è la sua aria, è il suo
+alimento, è l'unico filo, l'unico che ancora lo leghi
+alla vita! *(Tossisce. — Pausa.)* E tu, per dare una
+consolazione a tuo padre, devi maritarti. Ragioniamo.
+L'andare attorno, alla ricerca d'un marito, non
+ci garba? Be'! Tanto meglio! Aspetteremo che il
+marito venga da noi. Le richieste non mancano. Non
+te ne sei accorta che Biagio mi sta alle calcagna?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Ah! L'antiquario....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(rifacendo la voce un po' nasale di Biagio)* «Don
+Pietro, parlate con Margheritina.... Don Pietro,
+ditele che io ho una grande tenerezza per lei....»
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Sì, sì....
+
+[pg!31]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Bello non è, e neppure giovanissimo.... Ma ha
+una buona clientela, è un negoziante intemerato,
+vende per roba antica tutto ciò che gli pare e piace....
+Insomma, è un uomo per bene che ha parecchie
+dita di cervello e, all'occorrenza, ha anche
+tanto di cuore. Ieri, poveretto, voleva per forza
+prestarmi cinque lire....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(con un repentino moto d'orrore)* E tu le prendesti?!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(calorosamente, in uno slancio irruente di protesta
+orgogliosa)* No che non le presi, perdinci!
+Da lui, no, mai!... Appunto perchè so che ti vuol
+bene! *(Un silenzio.)* Dunque, Margherita?...
+
+*(Si picchia alla porta comune con le nocche delle
+dita)*.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Chi è?
+
+SCENA III.
+----------
+
+PIETRO, MARGHERITA, FABRIZIO.
+`````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(di fuori)* Son io, don Pietro.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(con giubilo)* Non è la voce del signor conte?
+
+[pg!32]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(turbandosi)* Mi pare di sì.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Apri, apri.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(alza il lucchetto e si ritrae.)*
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(facendo capolino)* È permesso?
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(andandogli incontro, cerimonioso)* Avanti, avanti,
+signor conte.... Siete in casa vostra, lo sapete.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(avanzandosi)* Vi saluto, Don Pietro. *(Con un
+cenno del capo)* Signorina....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+È la pioggia che vi mena da queste parti?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Avete ragione, sono manchevole....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Non dico per questo. *(Gli toglie di mano il cappello.)*
+Margherita, una sedia....
+
+[pg!33]
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+No, no... Me ne vado subito.... Ho da recarmi a
+Roma, e forse più lontano,... e ho stabilito di partire
+stasera, col treno delle sei e quaranta....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(ne ha una scossa.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ah? Di partenza?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Sì, e giacchè debbo sbrigare ancora qualche faccenda
+a casa....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+C'è tempo, c'è tempo.... Ma, del resto, eccomi a
+voi. Quali comandi, signor conte?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Nessuna preghiera, don Pietro. Prima di partire,
+desidero di saldare quel conticino.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(giubilante e affaccendato)* Caro signor conte, voi
+siete un portento... voi siete un prodigio.... Margherita,
+una sedia, t'ho detto.... Che cosa fai lì,
+come una statua?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Non ce n'è bisogno, don Pietro....
+
+[pg!34]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(tremante e con lo sguardo rivolto altrove per
+non lasciarsi scorgere, gli avvicina una seggiola.)*
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Grazie, signorina.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(portando la seggiola presso la scrivania)* Qui,
+qui! *(Quasi costringendolo a sedere)* Accomodatevi,
+ve ne prego.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Sì, ma non perdiamo tempo.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Eh, che volete! La sorpresa... il piacere.... Voi
+non potete immaginare come arrivate opportuno....
+*(Sedendo dall'altro lato della scrivania)* La manna
+nel deserto!... E tu, Margherita, non salti dalla
+gioia?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(tenta di sorridere.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(a Fabrizio)* È commossa. Vedete, non ho vergogna
+di dirvelo: senza di voi, oggi, io e lei avremmo
+passata la giornata così... a bocca asciutta.
+
+[pg!35]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(siede presso la tavola, a lavorare all'uncinetto,
+sempre perplessa, sofferente, con le orecchie tese.)*
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Cioè, a bocca asciutta, no, perchè questa è una
+bottiglia di Cognac.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Posso offrirvi? *(Ne versa nel bicchierino.)*
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Grazie, no.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Alla vostra salute! *(Beve e tossisce.)*
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Non bevete, don Pietro; dobbiamo parlare di
+affari.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Per me, oramai, è come l'acqua. Sono all'ordine,
+io. *(Apre un registro sulla scrivania.)*
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(cava di tasca qualche carta. — Piano:)* Vorreste
+pregare la signorina di allontanarsi un poco?
+
+[pg!36]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(forte)* Oh, non vi preoccupate! Quella lì non ci
+disturba.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(subito)* No davvero.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Tuttavia....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Niente, niente. Lasciatela stare.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(malvolentieri)* Come volete.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Il conto completo delle spese fatte nella settimana
+precedente alle elezioni ve lo mandai martedì,
+e, se non sbaglio, è quello che avete in mano.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Perfettamente.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+E dovete convenire che, fra tutti i vostri collaboratori
+elettorali, don Pietro è stato il più economico.
+
+[pg!37]
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Economico, così così.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Oh! oh! Mi date un dolore....
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Veniamo al *quatenus*, se non vi dispiace.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Veniamoci.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Secondo la vostra noticina, la somma che vi versai
+il giorno sette fu tutta esaurita.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+I cento voti che vi promisi li avete avuti sì o no?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Va bene, li avrò avuti.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+E la neutralità di quel camorrista di Attanasio
+Belfiore dovevo o non dovevo ottenerla a qualunque
+prezzo?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Ma va benissimo....
+
+[pg!38]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Le carrozze che servirono a portarvi tutti gli
+elettori sciancati e paralitici, dovevo o non dovevo
+pagarle?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(spazientito)* Ho capito, don Pietro, ho capito....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+E non lo sapete che feci risuscitare otto morti
+affinchè venissero a votare per voi?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+O Dio, don Pietro, finiamola!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Volevo ragionare, volevo.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Ma che ragionare! Abbiamo assodato che quella
+somma fu esaurita?...
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Sissignore.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+E non ne parliamo più. C'è stata qualche altra
+spesa che per caso abbiate dimenticata?
+
+[pg!39]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Siete d'una delicatezza degna del nome che portate.
+Un momentino. *(Legge nel registro, mormorando:)*
+«Conte Fabrizio Fabrizii... Conte Fabrizio
+Fabrizii... Conte Fabrizio Fabrizii»... *(A lui)* Nessun'altra
+spesa, signor conte. *(Altero di questa sua
+risposta)* Cheh!... Questo significa aver le mani
+pulite!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(si stringe nelle spalle)* Sicchè, ora non mi resta
+che compensarvi di tutto ciò che avete fatto per
+me. Se il risultato non è stato quello che voi più
+di tutti mi facevate sperare, io non ve ne serbo
+rancore. Anzi... desidero di remunerarvi largamente...
+molto largamente....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(il cui volto s'irradia)* Signor conte!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(ascolta impallidendo.)*
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+... Anche perchè... mi avete resi tanti altri favori....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Servigi sempre.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+... e il vedervi, proprio ora, ridotto in queste
+condizioni....
+
+[pg!40]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Agli estremi! agli estremi!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+... mi rattrista, mi fa male....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Troppo buono!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Sì, voglio lasciarvi *(sottolineando le parole, affinchè
+Margherita comprenda)* una grata memoria di
+me; e, uscendo da questa casa, voglio sapervi lieto,
+voglio sapervi felice... insieme con la vostra figliuola.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(inebriandosi)* Non senti, Margherita?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(cui manca la voce)* Sì, sento, babbo.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(a lui)* È commossa.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Ma intanto... ho da chiedervi un ultimo piccolo
+favore.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ordinate.
+
+[pg!41]
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(pianissimo)* Voi, di certo, non avrete distrutte
+alcune lettere mie riguardanti qualche affaruccio,...
+In esse non c'è nulla di grave... Nondimeno,... se
+me le renderete, io, francamente,... starò più tranquillo.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(abbassando la voce più di lui)* Mi offendete.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Via, don Pietro, ci conosciamo....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Io non so che cosa intendiate dire, ma,... per non
+contrariarvi... *(apre un cassetto della scrivania, e
+cerca)* obbedirò. *(Dandogli un pacchetto di carte)*
+Ecco le vostre lettere.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(dopo averle contate)* Oh, bravo! Così mi piace!
+*(Si alza.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(con premura e smarrimento)* Come!! Ve ne
+andate?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(amaro e fiero)* Adesso siete voi che offendete
+me!
+
+[pg!42]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Eh! Potrei rispondere alla mia volta che... ci
+conosciamo....
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Siete un impertinente!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(mutando)* Ma appunto perchè ci conosciamo, io
+ho piena fiducia nella vostra parola.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(contenendosi)* Ciò non mi commuove che mediocremente.
+Sorvoliamo. *(Pausa. — Cavando fuori una
+busta)* Questa busta è per voi.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(più che mai inquieta, guarda con la coda dell'occhio.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(avidamente tende le mani.)*
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Prima di prenderla, però, voi mi dovete promettere,
+mi dovete giurare che non sciuperete questo
+danaro per i vostri vizii e per le vostre solite stravaganze.
+*(Con gentilezza e con sincera bontà)* Vi
+parlo da amico, don Pietro. Ricordatevi che avete
+una figliuola grande e che tutto ciò che sperperate è
+tolto a lei, verso cui avete dei sacri doveri.
+
+[pg!43]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(umilmente)* Nella vostra voce c'è qualche cosa
+di buono e di affettuoso a cui non sono abituato.
+Ve ne ringrazio, signor conte... E io vi giuro sul
+mio ono... *(s'interrompe, mortificato; indi, si corregge)*
+vi giuro... sull'onore di Margherita....
+
+*(Come per un fluido magnetico, s'incontrano gli
+sguardi, furtivi, di Margherita e di Fabrizio*.)
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(continuando)*... che questo danaro, dal quale sottrarrò
+appena quel poco che è necessario alle esigenze
+momentanee, sarà conservato, scrupolosamente...
+per lei.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(si leva, frenandosi e parlando senza fiato)* No,
+babbo.... Io... non potrò mai permettere che....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(con giocondità)* Silenzio, tu! Quello che potrai
+permettere lo saprai più tardi.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+A voi, don Pietro. *(Gli consegna la busta.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(col cuore palpitante apre la busta e subito il suo
+volto si anima e i suoi occhi brillano di stupore e
+di ebbrezza.)* Signor conte!... Che cos'è questo?!...
+[pg!44]
+Ma io sogno!... Io non merito tanto! *(Mostrando
+con la mano in alto, in preda ad una gioia pazza,
+i biglietti di banca)* Margherita! Margherita!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(si sorregge alla tavola.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(spaventato)* Margherita!... Figlia mia!... Tu sei
+pallida....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(ritrovando la forza nella sovraeccitazione)* Babbo,
+tu non devi accettare quel danaro!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Non devo accettarlo? O scherzi, o impazzisci!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Non le date retta, don Pietro!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(gridando)* Non devi, non devi accettarlo!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(dilatando le pupille)* Non devo accettarlo? *(Invaso
+dal dubbio atroce)* Ma perchè?... Ma perchè?...
+*(Un silenzio.)* Margherita? Parla, parla: perchè
+non devo accettare il suo danaro?...
+
+[pg!45]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Non lo hai ancora compreso?! Ebbene, te lo
+dico io....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Parla!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(prorompendo)* Perchè esso è il prezzo della mia
+colpa....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(disperatamente, gettando via il danaro)* No!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Tacete, Margherita!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Perchè esso è il prezzo del mio peccato....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+No! No!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(con lacerante veemenza)* È il prezzo del mio povero
+amore, del mio amore sciocco e insensato, ed
+è ciò che egli paga, intendi?, è ciò che paga a me
+e a te per avere il diritto di licenziarmi come si licenzia
+la serva di cui non si ha più bisogno!
+
+[pg!46]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(alla figlia, sentendosi strozzare dal dolore e dall'ira)*
+Esci.... Esci di casa mia.... Esci.... Vattene...
+Mi fai ribrezzo!....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Babbo!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Mi fai ribrezzo!... Vorrei essere cieco per non
+vederti, vorrei essere sordo per non udire la tua
+voce. *(Terribile)* Esci!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Vi prego, don Pietro....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Non parlo con voi, signor conte. *(A Margherita)*
+Esci! *(Restano tutti e tre qualche momento in silenzio,
+come paralizzati.)*
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(lenta e dimessa, singhiozzando, si avvia per
+uscire.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(con un impeto subitaneo)* No, aspetta! *(Supplichevole)*
+Aspetta! *(Pausa.)* Te ne andavi davvero,
+eh?... Dove andavi?... *(Sottovoce)* Le strade
+[pg!47]
+sono piene di pericoli... e, tra poco... *(avendone
+un brivido)* sarà notte.... *(Poi, rivolgendosi risoluto
+a Fabrizio)* Signor conte, voi non mi lascerete così
+la mia figliuola.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(cortese)* Don Pietro, innanzi a lei non possiamo
+parlare liberamente.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+È giusto. *(A Margherita)* A te: hai inteso?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Sì.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(la prende per un braccio, e, con lieve violenza,
+la conduce verso la porta a sinistra, parlandole all'orecchio
+concitatamente:)* Mi hai confessato tutto?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(sempre singhiozzando)* Tutto.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Non hai altro da dirmi?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Niente altro.
+
+[pg!48]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Non hai conosciuto che lui?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Lui! Lui!... Il solo! *(Via.)*
+
+SCENA IV.
+---------
+
+PIETRO E FABRIZIO.
+``````````````````
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(chiude l'uscio, raccoglie i biglietti e li porge a
+Fabrizio in atto quasi di preghiera.)* Riprendete,
+signor conte....
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(pazientemente, scrollando il capo, intasca i biglietti.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ora, potrete rispondere. Voi non me la lascerete
+così la mia figliuola.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Don Pietro, io non vi capisco.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(tutto tremante nella voce)* È tanto semplice, è
+tanto naturale, è tanto chiaro....
+
+[pg!49]
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Gli è che siete troppo eccitato. Parleremo con
+più calma un'altra volta.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ma qui non si tratta d'un qualche affare che riguardi
+voi e me. Qui si tratta di lei, della mia
+creatura,... infame sì, ma sventurata.... E noi non
+abbiamo il diritto di prolungarle questi momenti
+d'angoscia.... Parleremo adesso, signor conte.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(rassegnato, siede.)* E parliamo.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Voi, da quel galantuomo che siete, non negate,
+non potete negare che la mia creatura, quando ha
+conosciuto voi, era una ragazza onorata.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Non lo nego.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Non potete negare che la sua confessione... quella
+che le è uscita di bocca un momento fa... è stata
+veritiera.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Non nego neanche questo.
+
+[pg!50]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+E dunque, ragioniamo: la responsabilità di chi è?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Di tutti e due, perchè Margherita non è più una
+bambina e io non sono nè un seduttore, nè un
+ingannatore.... Ci siamo amati, ci siamo piaciuti,
+siamo stati deboli, imprudenti.... Non dovrei parlare
+così, ma voi mi ci costringete. Ognuno di noi
+due ha la sua parte di responsabilità.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ah, già! *(Animandosi dolorosamente)* Responsabile
+il maschio, responsabile la femmina! La natura
+umana è uguale per tutti, come la legge. Senonchè,
+questa eguaglianza finisce dove finisce il
+peccato e dove comincia la pena. La responsabilità
+è comune, sissignore, ma la femmina sconta la sua
+debolezza con la vergogna di tutta la vita, e il
+maschio la sconta con alcune migliaia di lire o,
+qualche volta, solamente con un'alzata di spalle.
+Ecco l'uguaglianza della natura umana! *(Pausa.)*
+Signor conte, io sono e sono stato sempre una
+persona orribile, perchè, nascendo, ereditai, insieme
+con un po' di triste ingegnaccio, tutti i germi che
+man mano si sviluppano per ammiserire un uomo.
+Pure, un giorno, dopo un momento di brutalità,
+quando mi trovai dinanzi una povera donnetta che
+non aveva commessa altra colpa che quella a cui
+io l'avevo trascinata, sentii il desiderio e la necessità
+di farne mia moglie. *(Con tenera soavità)* Mi
+visse due anni, e furono i più lieti della mia esistenza....
+[pg!51]
+Non sentite lo stesso desiderio, la stessa
+necessità, voi, che siete una persona sana e virtuosa?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Ma come c'entra tutto questo? Io non comprendo
+come voi, che, in fondo, siete un uomo assai intelligente,
+mi possiate chiedere sul serio ch'io sposi
+vostra figlia. Il suo caso mi sta a cuore più che
+non crediate. Le ho voluto bene veramente e ancora
+gliene voglio, ancora mi piace.... Mi separavo
+da lei per evitarle... guai peggiori. Prontissimo a
+qualunque accomodamento, ma sposarla?!... sposarla?!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Sposarla, s'intende!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Via, non scherziamo. Io non sono un uomo superiore,
+e non aspiro ad esserlo. Se la società in
+cui viviamo è fatta male, volete che la rifaccia
+proprio io?
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Sposare una ragazza che vi si è data anima e
+corpo significa rifare la società?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Significa sfidarla, il che è più pericoloso.
+
+[pg!52]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+La sfidereste se non foste sicuro dell'onestà di lei.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Ma non devo esserne sicuro io; ne devono essere
+sicuri gli altri.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Il vostro nome è una garanzia.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Il mio nome esige precisamente ch'io dia conto
+agli altri della rispettabilità di mia moglie.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+E allora a che serve un nome come il vostro se
+esso non è la marca di fabbrica che può garantire
+la rispettabilità della donna a cui lo date?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Don Pietro, voi mi obbligherete a dirvi delle
+cose molto crudeli....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ma dite, dite....
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Voi dimenticate o fingete di dimenticare la circostanza
+più importante.
+
+[pg!53]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+La circostanza più importante è che quella ragazza
+è rovinata.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+La circostanza più importante, la circostanza
+che esclude le speranze, le discussioni e i cavilli,
+don Pietro, è che essa è....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(intuendo)* Zitto, per carità!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(vibratamente)*... è che essa è *vostra figlia*!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(colpito e annichilito, non può pronunziare una
+sillaba.)*
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(alzandosi)* Tutto sommato, è bene che voi abbiate
+udito il suono di queste parole. Ma io vi
+domando: se anche amassi Margherita sino alla
+follia, in che modo potrei distruggere tutto ciò che
+le sta d'intorno, in che modo potrei annullare il
+vostro passato, il vostro presente, tutta la vostra
+vita, tutto il discredito — per non dir di peggio — della
+casa in cui ella è nata ed è vissuta? Sì, vi
+scalmanate in favore delle donne.... Ne sposaste
+una probabilmente perchè essa non aveva per padre
+[pg!54]
+un uomo come voi e perchè voi non avevate
+niente da perdere e niente da sacrificarle. Ma per
+vostra figlia, che avete saputo fare?
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(oscillando da capo a piedi come preso dalla paura)*
+No, no, non continuate, non continuate....
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Fra questi medesimi muri, che mi accoglievano
+di nascosto, io avevo visto le cose più strane e più
+equivoche. Venivo qui quando volevo. Trovavo una
+fanciulla sola, sempre sola, disfatta dalla noia e
+dalla malinconia, inutilmente desiderosa di una
+vita attiva e proficua, abbandonata a sè stessa....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(quasi vedesse il triste quadro con le sue pupille
+dilatate e fisse)* È vero!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+... senza una risorsa, senza un sollievo....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+È vero!
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+... disposta a preferire qualunque lotta, qualunque
+rischio e financo la perdizione all'ozio lugubre
+del suo carcere. Nessuna traccia dell'autorità e
+dell'affetto paterno ci frenava, ci tratteneva, ci correggeva;
+nessun ostacolo si opponeva a me, nessuno
+[pg!55]
+a lei.... E mentre la solitudine contribuiva ad
+aumentare gli scoraggiamenti e le insidie nell'animo
+della vostra figliuola, che facevate voi, don
+Pietro?... Dove eravate?... Dove eravate?
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(sfinito, esausto, parlando a stento)* Basta, basta,
+per pietà.... Non ho più la forza di ascoltarvi....
+Avete ragione.... L'avaro losco, che nasconde il
+suo tesoro in un pozzo senza fondo, non lo ritrova
+e non ha il diritto di ritrovarlo.... Avete perfettamente
+ragione.... Ma non mi tormentate più.... Mi
+aspettano ancora tante torture.... Concedetemi una
+tregua... e concludiamo il nostro colloquio.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(con affabilità contenuta)* La conclusione è che Margherita
+potrà sempre contare sul mio affetto. Credevo
+di giovarle rompendo ogni legame e facendole
+indirettamente... una mia doverosa offerta. Ma io
+come io non desidero che di continuare ad essere
+per lei... quello che sono stato sinora, assumendo
+l'impegno... di provvedere alla sua vita, senza restrizioni.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(come ebetito)* Questa è la vostra proposta?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Questa.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Siamo intesi. *(Un silenzio.)* *(Un'idea tremenda gli
+occupa d'un subito il cervello.)*
+
+[pg!56]
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+A rivederci, Don Pietro
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Riceverete a casa la risposta di mia figlia, fra pochi
+minuti.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Come vi accomoda. *(Fa per andare.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Non volete neppure stringermi la mano?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+*(torna, porgendogli la destra)* Ma sì.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(gliela stringe e gliela trattiene)* E non lo dimenticate
+questo saluto.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Perchè?
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Perchè... se Margherita vi dirà di sì.... Don Pietro
+andrà a fare il galoppino... nell'altro mondo.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Non dite scioccherie!
+
+[pg!57]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+A voi sembra assurdo che un uomo della mia
+qualità non abbia il coraggio di assistere alla...
+*discesa* della sua figliuola?... *(Lugubre)* E intanto è
+così, signor conte, è proprio così.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Vedrete, vedrete. Accomoderemo le cose in maniera
+che....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+... che tutti saranno soddisfatti?
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Precisamente.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+E io non ne dubito.
+
+.. class:: center
+
+| :scene:`(Un breve silenzio.)`
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+
+Di nuovo, a rivederci, don Pietro....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Sì, sì, a rivederci.
+
+.. class:: center
+
+| :small-caps:`Fabrizio`
+|
+| *(esce.)*
+
+[pg!58]
+
+SCENA ULTIMA
+------------
+
+PIETRO E MARGHERITA.
+````````````````````
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(si stringe le braccia, incrociate sul petto, come
+per una sensazione di morte. Vede la bottiglia di
+Cognac. L'afferra, e beve. Tossisce. Si alza a guisa
+di uno stordito. Si accosta alla porta della camera
+dov'è Margherita, e mette l'occhio al buco della serratura.
+Poi, guardingo, tremando, apre un cassetto
+della scrivania, ne cava una rivoltella. Nasconde
+l'arma nella giacca. Ciò fatto, con accento
+per quanto gli è possibile fermo, chiama:)* Margherita!
+Margherita!... Margherita!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(comparisce cogli occhi rossi, ansiosa, timida.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(cercando di dissimulare il colmo dell'orgasmo
+e parlando con solennità, cui mal s'addicono la
+voce tremula e la pronunzia alquanto debole)* Margherita,
+ho ragionato a lungo col conte Fabrizii,
+e ci siamo detto... tutto ciò che potevano dirsi due
+uomini nelle nostre condizioni. Il risultato del colloquio
+è il seguente: Egli non può sposarti, e non
+ti sposerà. Su questo, niente da osservare.... La
+figlia di Don Pietro Caruso non si sposa. *(Pausa.)*
+Ma c'è, in compenso, una sua proposta... di altro
+genere. Il conte Fabrizii, per mezzo di tuo padre,
+ti propone di essere la sua... la sua amica, come
+sei stata sino ad oggi; e ti offre, senza restrizioni,
+[pg!59]
+il suo appoggio. Vedi che son riescito a dire con
+disinvoltura e con garbo quello... che, probabilmente,
+nessun padre avrà mai detto a una figlia!
+*(Pausa.)* Ora, Margherita, sei tu che devi decidere.
+Su, dunque! Animo!... Animo!... Che decidi?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(vorrebbe, ma non osa guardarlo, nè rispondere.
+È pallidissima.)*
+
+.. class:: center
+
+| :scene:`(Un silenzio.)`
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(fissandola acutamente e penosamente)* Rispondi,
+Margherita.... Rispondi. *(Pausa.)* *(Quasi con
+energia)* Che decidi?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(abbassa il capo.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(trepidante, le si avvicina, e, tuttora fissandola,
+le solleva delicatamente il capo, costringendola a
+sentirsi in faccia lo sguardo di lui.)*
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Babbo....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Avanti!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(a un tempo umile e risoluta)* Io l'amo!
+
+[pg!60]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(ne ha una tremenda stretta al cuore; ma si padroneggia.)*
+E sta bene. Non è necessario di aggiungere
+altro. Egli aspetta la tua risposta. Te la
+dètto io. Scrivi.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(sospesa, timorosa, non si muove.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(con cupa violenza)* Ti ordino di scrivere!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(automaticamente, siede presso la scrivania, e si
+dispone a scrivere.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(ridiventando mite)* Poche parole, ma compendiose.
+Scrivi, scrivi. *(Dettando:)* «Accetto la vostra
+proposta»... *(Pausa. — Con un intimo avanzo di
+speranza)* Hai scritto?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Sì.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(sente la condanna che è in quel SÌ, e continua a
+dettare:)* «L'accetto... *imperciocchè* vi amo e fido
+[pg!61]
+ciecamente in voi»... Se sei abituata a dargli del
+tu, correggi! *(Dètta:)* «Vi prego di venire appena
+avrete ricevuta questa lettera... *imperciocchè*... urge
+la vostra presenza».... *(Ancora un lampo di speranza)*
+Hai scritto?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Sì.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(sente ribadire la condanna; le forze gli mancano,
+si piega un istante sul tavolino; ma di nuovo
+si padroneggia e si solleva.)* Benissimo. Firma,
+chiudi e mettici l'indirizzo.
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(esegue.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(girando intorno lo sguardo smarrito)* Il mio
+cappello?...
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Babbo, non uscire, adesso!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(prende la lettera di su la scrivania)* Il palazzo
+Fabrizii è qui vicino. Porto la tua risposta al signor
+conte....
+
+[pg!62]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Ma no, non c'è bisogno.... Non è indispensabile!
+*(Con uno slancio affettuoso)* Non voglio! Non voglio!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(ha un raggio di illusione negli occhi)* Non
+vuoi?... Che cosa non vuoi?
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Non voglio che ci vada tu stesso.... Sarebbe
+brutto, babbo, sarebbe sconveniente!...
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ah! *(Pausa. — Ricascando nella sua profonda
+tristezza)* Questo è che non vuoi!... Eppure, è la
+prima volta che ti sono, in certo modo, un poco
+utile... Finora, non ti ho fatto che del male, Margherita.
+Assai te ne ho fatto!... Ti prometto di
+non fartene mai più!... Oh, non pensare che la
+testa mi giri! So quello che dico.... Poc'anzi..., questo
+è vero..., poc'anzi ho ancora bevuto.... Ma, credimi,
+ho le idee chiare, precise, fisse, ben inchiodate
+nel cervello, come non le ho mai avute.... *(Le
+si avvicina, profondamente commosso, con dolcezza,
+quasi con devozione)* Senti, Margherita. Tu... ti
+perdi... sì, ti perdi perchè sei mia figlia....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Babbo!...
+
+[pg!63]
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ed io... ti chiedo perdono d'essere tuo padre!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Babbo, non parlarmi così....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(stringendosela forte tra le braccia e scoppiando
+in un pianto dirotto)* Dimmi, dimmi che mi perdoni....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(anche lei piangendo)* Io non ho nulla da perdonarti!
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+La tua incoscienza è la mia peggiore condanna!
+Dimmi che mi perdoni, Margherita, dimmi che mi
+perdoni... te ne supplico....
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+E sia.... E sia. Ti perdòno.... Sì, ti perdòno... ti
+perdòno....
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(coprendola di baci e di lagrime)* Grazie... Grazie....
+[pg!64]
+*(Frena il pianto, e, fingendo di calmarsi, a
+poco a poco si distacca da lei)* Ecco... lo vedi...
+ora sono tranquillo. *(Sorride. Si drizza quasi impettito.
+Piglia il cappello e se lo calca in testa.)*
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+Con questa giacca esci, babbo?
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Ah?... *(Stranamente imbarazzato)* Con questa
+giacca? No. *(Se la toglie e cerca un pretesto per
+sottrarsi all'attenzione di Margherita.)* Guarda un
+po', Margherita, se piove ancora.
+
+*(Mentre ella va alla finestra e l'apre e la richiude,
+Don Pietro, con circospezione e sveltezza, cava
+la rivoltella dalla tasca della giacca e la ficca in
+una tasca del soprabito.)*
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+No, babbo, non piove più.
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+Be'!
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(lo aiuta a indossare il soprabito.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(ne ha un brivido come se ella gli mettesse addosso
+la Morte.)*
+
+[pg!65]
+
+.. class:: center
+
+| :small-caps:`Margherita`
+
+*(resta immobile, quasi attonita, seguendo lui con
+lo sguardo interrogativo.)*
+
+.. class:: center
+
+| :small-caps:`Pietro`
+
+*(dopo di aver indugiato qualche istante, abbottonandosi)*
+Addio, eh?... *(Ed esce, cantando con
+un estremo sforzo di volontà:)*
+
+   | Sconto col sangue mio
+   | L'amor che pósi in te....
+   | Non ti scordar di... me...
+
+*(La voce, lontana, si spezza come in un singulto.)*
+
+.. vspace:: 2
+
+.. class:: center
+
+| :large:`SIPARIO.`
+
+.. class:: center
+
+| :small-caps:`(Fine del dramma.)`
+
+.. footnotes:: NOTA
+   :class: small
+
+|
+|
+|
+|
+|
+
+.. _pg_end_line:
+
+\*\*\* END OF THIS PROJECT GUTENBERG EBOOK DON PIETRO CARUSO \*\*\*
+
+.. backmatter::
+
+.. toc-entry::
+   :depth: 0
+
+.. _pg-footer:
+
+.. class:: pgfooter language-en
+
+A Word from Project Gutenberg
+=============================
+
+We will update this book if we find any errors.
+
+This book can be found under: http://www.gutenberg.org/ebooks/38217
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules, set
+forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg™ electronic works to
+protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.
+They may be modified and printed and given away – you may do
+practically *anything* with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+.. _Project Gutenberg License:
+
+The Full Project Gutenberg License
+----------------------------------
+
+*Please read this before you distribute or use this work.*
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+http://www.gutenberg.org/license.
+
+
+Section 1. General Terms of Use & Redistributing Project Gutenberg™ electronic works
+````````````````````````````````````````````````````````````````````````````````````
+
+**1.A.** By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound by
+the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+**1.B.** “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg™ electronic
+works. See paragraph 1.E below.
+
+**1.C.** The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is in the public domain in the United
+States and you are located in the United States, we do not claim a
+right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting free
+access to electronic works by freely sharing Project Gutenberg™ works
+in compliance with the terms of this agreement for keeping the Project
+Gutenberg™ name associated with the work. You can easily comply with
+the terms of this agreement by keeping this work in the same format
+with its attached full Project Gutenberg™ License when you share it
+without charge with others.
+
+
+
+**1.D.** The copyright laws of the place where you are located also
+govern what you can do with this work. Copyright laws in most
+countries are in a constant state of change. If you are outside the
+United States, check the laws of your country in addition to the terms
+of this agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work.  The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+**1.E.** Unless you have removed all references to Project Gutenberg:
+
+**1.E.1.** The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere at no cost and with
+  almost no restrictions whatsoever. You may copy it, give it away or
+  re-use it under the terms of the Project Gutenberg License included
+  with this eBook or online at http://www.gutenberg.org
+
+**1.E.2.** If an individual Project Gutenberg™ electronic work is
+derived from the public domain (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work
+can be copied and distributed to anyone in the United States without
+paying any fees or charges. If you are redistributing or providing
+access to a work with the phrase “Project Gutenberg” associated with
+or appearing on the work, you must comply either with the requirements
+of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of
+the work and the Project Gutenberg™ trademark as set forth in
+paragraphs 1.E.8 or 1.E.9.
+
+**1.E.3.** If an individual Project Gutenberg™ electronic work is
+posted with the permission of the copyright holder, your use and
+distribution must comply with both paragraphs 1.E.1 through 1.E.7 and
+any additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works posted
+with the permission of the copyright holder found at the beginning of
+this work.
+
+**1.E.4.** Do not unlink or detach or remove the full Project
+Gutenberg™ License terms from this work, or any files containing a
+part of this work or any other work associated with Project
+Gutenberg™.
+
+**1.E.5.** Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+**1.E.6.** You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format other
+than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ web site
+(http://www.gutenberg.org), you must, at no additional cost, fee or
+expense to the user, provide a copy, a means of exporting a copy, or a
+means of obtaining a copy upon request, of the work in its original
+“Plain Vanilla ASCII” or other form. Any alternate format must include
+the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+**1.E.7.** Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+**1.E.8.** You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works provided
+that
+
+.. class:: open
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method you
+  already use to calculate your applicable taxes. The fee is owed to
+  the owner of the Project Gutenberg™ trademark, but he has agreed to
+  donate royalties under this paragraph to the Project Gutenberg
+  Literary Archive Foundation. Royalty payments must be paid within 60
+  days following each date on which you prepare (or are legally
+  required to prepare) your periodic tax returns. Royalty payments
+  should be clearly marked as such and sent to the Project Gutenberg
+  Literary Archive Foundation at the address specified in Section 4,
+  “Information about donations to the Project Gutenberg Literary
+  Archive Foundation.”
+
+- You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+- You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+**1.E.9.** If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and
+Michael Hart, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
+
+**1.F.**
+
+**1.F.1.** Project Gutenberg volunteers and employees expend
+considerable effort to identify, do copyright research on, transcribe
+and proofread public domain works in creating the Project Gutenberg™
+collection. Despite these efforts, Project Gutenberg™ electronic
+works, and the medium on which they may be stored, may contain
+“Defects,” such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+**1.F.2.** LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the
+“Right of Replacement or Refund” described in paragraph 1.F.3, the
+Project Gutenberg Literary Archive Foundation, the owner of the
+Project Gutenberg™ trademark, and any other party distributing a
+Project Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+**1.F.3.** LIMITED RIGHT OF REPLACEMENT OR REFUND – If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+**1.F.4.** Except for the limited right of replacement or refund set
+forth in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH
+NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+**1.F.5.** Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+**1.F.6.** INDEMNITY – You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in accordance
+with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+
+Section 2. Information about the Mission of Project Gutenberg™
+``````````````````````````````````````````````````````````````
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will remain
+freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org .
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+``````````````````````````````````````````````````````````````````````````````
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf . Contributions to the
+Project Gutenberg Literary Archive Foundation are tax deductible to
+the full extent permitted by U.S.  federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are
+scattered throughout numerous locations. Its business office is
+located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
+
+For additional contact information:
+
+ | Dr. Gregory B. Newby
+ | Chief Executive and Director
+ | gbnewby@pglaf.org
+
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+```````````````````````````````````````````````````````````````````````````````````````````
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array of
+equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status
+with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5. General Information About Project Gutenberg™ electronic works.
+`````````````````````````````````````````````````````````````````````````
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg™ eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the
+U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected *editions* of our eBooks replace the old file and take over
+the old filename and etext number. The replaced older file is
+renamed. *Versions* based on separate sources are treated as new
+eBooks receiving new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search
+facility:
+
+  http://www.gutenberg.org
+            
+This Web site includes information about Project Gutenberg™, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe
+to our email newsletter to hear about new eBooks.
+
